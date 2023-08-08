@@ -150,12 +150,9 @@ Ways to integrate my learnings from STA631 course in my current/future job:
 
 ### Data Feminism learnings:
 
-
 - A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used. 
 
-- Validations that data and algorithms are not gender objective - they reflect the priorities, biases, and values of those who create them.
-
-- Suggests 7 principles for ethical data science: 1) Examine power 2) Challenge power 3) Elevate emotion and embodiment 4) Rethink binaries and hierarchies 5) Embrace pluralism 6) Consider context 7) Make labor visible.
+- Validations that data and algorithms are not gender objective - depends on the priorities, biases, and values of those who create them.
 
 - To include diverse perspectives and lived experiences results in better, more ethical and just data science for society.
 
