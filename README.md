@@ -106,8 +106,6 @@ Bootstrap modeling, is a resampling technique used to estimate the variability o
   With the bootstrap samples we can compute mean, standard deviation, confidence intervals.
 - Bootstrap Confidence Intervals
 - Model Validation:
-   Bootstrap is used to assess the performance of any prediction model. Through bootstrap-based validation, we can
-   estimate the model's predictive accuracy and assess its ability to generalize to unseen data.
 
 From this chapter, I gained the fundamentals understanding of the principles and applications of bootstrap modeling. This resampling technique is a valuable addition to my statistical toolkit, helping me to validate the performance of complex models in real-world data analysis.
 
@@ -155,7 +153,7 @@ Ways to integrate my learnings from STA631 course in my current/future job:
 
 - A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used. 
 
-- Argues that data and algorithms are not objective - they reflect the priorities, biases, and values of those who create them.
+- Validations that data and algorithms are not gender objective - they reflect the priorities, biases, and values of those who create them.
 
 - Suggests 7 principles for ethical data science: 1) Examine power 2) Challenge power 3) Elevate emotion and embodiment 4) Rethink binaries and hierarchies 5) Embrace pluralism 6) Consider context 7) Make labor visible.
 
