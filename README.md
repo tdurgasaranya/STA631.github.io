@@ -150,8 +150,8 @@ Ways to integrate my learnings from STA631 course in my current/future job:
 
 ### Data Feminism learnings:
 
-- A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used. 
-
+- A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used.
+  
 - Validations that data and algorithms are not gender objective - depends on the priorities, biases, and values of those who create them.
 
 - To include diverse perspectives and lived experiences results in better, more ethical and just data science for society.
