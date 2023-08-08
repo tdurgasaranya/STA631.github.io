@@ -7,7 +7,7 @@
 
 ## Regression Concepts
 
-[Git Link for repo](https://github.com/tdurgasaranya/activity01-course-tools)
+[Git Link for my repo](https://github.com/tdurgasaranya/activity01-course-tools)
 
 
 In this chapter, I have learned about the fundamental concepts of regression analysis.
@@ -15,7 +15,7 @@ Regression is a statistical method used to create any relationship between a dep
 
 ## Simple Linear Regression
 
-[Simple linear regression Git Link work](https://github.com/tdurgasaranya/activity02-slr)
+[Simple linear regression work Git Link](https://github.com/tdurgasaranya/activity02-slr)
 
 
 In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
@@ -24,7 +24,7 @@ I learned how to fit a linear equation using Rscript with the data using the met
 
 ## Multiple Linear Regression
 
-[Multiple Linear Regression Git work Link](https://github.com/tdurgasaranya/activity03-mlr)
+[Multiple Linear Regression work Git Link](https://github.com/tdurgasaranya/activity03-mlr)
 
 This chapter introduced me to the concepts of multiple linear regression, where we apply the concept of simple linear regression to include multiple independent variables rather than one variable.
 I've learned how to fit a multiple regression model, interpret the coefficients and perform hypothesis tests to validate the significance of the variables.
