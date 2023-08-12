@@ -35,6 +35,70 @@ This demonstrates my learning skills in applying statistical learning techniques
 
 3. ***Conduct model selection for a set of candidate models***
 
+Example: For a sales inventory prediction project, I am developing models to forecast future products inventory. 
+- So far, I have collected historical sales data and promotional information to train candidate models. 
+
+I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like Mean Absolute Error. 
+
+- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach. By systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory demand.
+
+The additional steps to this project would be to:
+
+- Preprocess and split the data into training/validation sets
+- Train a Random Forest model and tune hyperparameters
+- Evaluate and compare performance to the Linear Regression model
+- Use cross-validation to further validate the top model
+
+By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data. This will help the retailer optimize their inventory planning.
+
+In summary, this project demonstrates my ability to find best practices to determine the optimal modeling technique for a business forecasting need. I am applying these statistical learning methods to achieve an effective inventory prediction model.
+
+4. ***Communicate the results of statistical models to a general audience***
+
+- Inventory Prediction: I tried to fit a line chart to demonstrate how the model accurately forecasted product demand based on historical sales data, predicting inventory planning. 
+
+- Logistic Regression: I used a bar chart to explain how the model predicts candidate resume shortlisting based on demographics, years of experience.
+
+- Multilinear regression model: Quantitative explanatory analysis:
+I tried to create 3D plots while working on a Multiple Linear Regression example that represents the estimated model prediction data points on the plot that would help the general audience to understand 3D plot visualization.
+
+- Bootstrapping: Trying to incoporate histogram illustrations, to convey how bootstrapping provides confidence intervals for inputs to the dataset.
+
+In summary, I am trying to leverage various visualization types for statistical analysis performed like - line charts, bar charts, scatter plots, histograms, 3D plot and box plots - to communicate model results, insights, and business impacts across these projects in a simplified yet compelling way. The specific visuals help to convey key information to general audiences.
+
+
+5. ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
+
+- Inventory Product sales prediction
+
+I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
+
+- Resume shortlisting candidates experience project
+
+I am using R workbench to assess a model predicting shortlisting based on resume skills using accuracy metrics. 
+
+I am trying to leverage R scripting to evaluate a model forecasting using graphics and charts.
+
+- Bootstrapping Confidence Intervals
+I used and learnt how to estimate confidence intervals for sales forecasts on R studio workbench
+
+In summary, I am  trying to demonstrate fundamental skills in R including data visualization, model evaluation, forecasting, estimation, and statistical testing for mini projects like involving sales prediction inventory, resume shortlisting.
+I focused on fundamental techniques to prepare, assess, and interpret statistical models.
+
+
+### Team collaboration/contribution:
+
+1. I actively participated in team channels, exchanging ideas and insights with team members on mini projects. We reviewed each other's work, celebrated accomplishments, and provided constructive feedback to help improve our individual work results.
+
+2. I collaborated with peers on course projects, pairing up to complete assignments. We divided up tasks, combined our work, and learned from each other's approaches. These collaborations allowed us to produce higher quality deliverables.
+
+3. I shared a job opportunity and relevant article with one of the program peers that matched their skills and interests, helping connect her with openings.
+
+4. I did not just speak up with my own perspectives during team discussions but also made an effort to listen to others' viewpoints. Reflecting on diverse opinions leads to better solutions. 
+
+5. I received feedback from teammates to strengthen my analysis and communication skills. Incorporating their suggestions helped me substantially improve my projects and presentations.
+
+Overall, I leveraged the collaborative environment to exchange knowledge, motivate peers, provide mutually beneficial feedback, and learn from the diversity of backgrounds and thoughts. 
 
 
 
