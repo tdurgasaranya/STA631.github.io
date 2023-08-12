@@ -13,12 +13,13 @@
 - Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing
   historical sales data for different products.
   
-- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model
-  how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood
-  Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
+- I tried to create a predictive model using linear regression, including multiple linear regression. I tried to estimate coefficients to
+  model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum
+  Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic
+  sales data.
   
-- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model
-  estimation process.
+- In this project, I am tyring to incoporate and implement probability theory to interpret historic product sales patterns and guide the
+  prediction model estimation process.
 - My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
 
 
