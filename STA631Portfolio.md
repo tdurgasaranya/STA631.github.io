@@ -59,7 +59,7 @@ The additional steps to this project would be to:
 - Evaluate and compare performance to the Linear Regression model
 - Use cross-validation to further validate the top model
 
-By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data. This will help the retailer optimize their inventory planning.
+By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data.
 
 In summary, this project demonstrates my ability to find best practices to determine the optimal modeling technique for a business forecasting need. I am applying these statistical learning methods to achieve an effective inventory prediction model.
 
