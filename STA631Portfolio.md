@@ -70,17 +70,14 @@ In summary, I am trying to leverage various visualization types for statistical 
 5. ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
 
 - Inventory Product sales prediction
-
-I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
+  I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
 
 - Resume shortlisting candidates experience project
-
-I am using R workbench to assess a model predicting shortlisting based on resume skills using accuracy metrics. 
-
-I am trying to leverage R scripting to evaluate a model forecasting using graphics and charts.
+  I am using R workbench to assess a model predicting shortlisting based on resume skills using accuracy metrics.
+  I am trying to leverage R scripting to evaluate a model forecasting using graphics and charts.
 
 - Bootstrapping Confidence Intervals
-I used and learnt how to estimate confidence intervals for sales forecasts on R studio workbench
+  I used and learnt how to estimate confidence intervals for sales forecasts on R studio workbench
 
 In summary, I am  trying to demonstrate fundamental skills in R including data visualization, model evaluation, forecasting, estimation, and statistical testing for mini projects like involving sales prediction inventory, resume shortlisting.
 I focused on fundamental techniques to prepare, assess, and interpret statistical models.
