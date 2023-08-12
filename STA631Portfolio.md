@@ -1,9 +1,59 @@
 ## STA631 Portfolio
 
 - Name: Durga Tummalapalli
+
 - [Professor - STA631 Course](https://github.com/dykesb)
 
 ***This report provides an overview of my proficiency and understanding of the chapters covered in STA631 course***
+
+### Course Learning Objectives:
+
+1. Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:
+
+- Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing historical sales data for different products.
+  
+- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
+  
+- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model estimation process.
+- My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
+
+
+2. Determine and apply the appropriate generalized linear model for a specific data context
+
+- Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
+  generalized linear model (GLM) for a resume data context.
+
+- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
+- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical variable (years of experience). 
+- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability of being shortlisted. 
+
+By interpreting these estimated relationships, I could understand how experience impacts the likelihood of shortlisting. I am also trying to include the model to predict shortlisting probabilities for candidates with different levels of experience. 
+
+This demonstrates my learning skills in applying statistical learning techniques to build models that drive business processes and decisions. The GLM enabled me to predict outcomes based on applicants
+
+
+3. Conduct model selection for a set of candidate models
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Regression Concepts
 
