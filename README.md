@@ -1,13 +1,107 @@
 ## STA631 Portfolio
 
 - Name: Durga Tummalapalli
+
 - [Professor - STA631 Course](https://github.com/dykesb)
 
 ***This report provides an overview of my proficiency and understanding of the chapters covered in STA631 course***
 
+### Course Learning Objectives:
+
+1. ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
+   
+
+- Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing historical sales data for different products.
+  
+- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
+  
+- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model estimation process.
+- My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
+
+
+2. ***Determine and apply the appropriate generalized linear model for a specific data context***
+   
+- Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
+  generalized linear model (GLM) for a resume data context.
+
+- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
+- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical variable (years of experience). 
+- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability of being shortlisted. 
+
+By interpreting these estimated relationships, I could understand how experience impacts the likelihood of shortlisting. I am also trying to include the model to predict shortlisting probabilities for candidates with different levels of experience. 
+
+This demonstrates my learning skills in applying statistical learning techniques to build models that drive business processes and decisions. The GLM enabled me to predict outcomes based on applicants
+
+
+3. ***Conduct model selection for a set of candidate models***
+
+Example: For a sales inventory prediction project, I am developing models to forecast future products inventory. 
+- So far, I have collected historical sales data and promotional information to train candidate models. 
+
+I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like Mean Absolute Error. 
+
+- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach. By systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory demand.
+
+The additional steps to this project would be to:
+
+- Preprocess and split the data into training/validation sets
+- Train a Random Forest model and tune hyperparameters
+- Evaluate and compare performance to the Linear Regression model
+- Use cross-validation to further validate the top model
+
+By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data. This will help the retailer optimize their inventory planning.
+
+In summary, this project demonstrates my ability to find best practices to determine the optimal modeling technique for a business forecasting need. I am applying these statistical learning methods to achieve an effective inventory prediction model.
+
+4. ***Communicate the results of statistical models to a general audience***
+
+- Inventory Prediction: I tried to fit a line chart to demonstrate how the model accurately forecasted product demand based on historical sales data, predicting inventory planning. 
+
+- Logistic Regression: I used a bar chart to explain how the model predicts candidate resume shortlisting based on demographics, years of experience.
+
+- Multilinear regression model: Quantitative explanatory analysis:
+I tried to create 3D plots while working on a Multiple Linear Regression example that represents the estimated model prediction data points on the plot that would help the general audience to understand 3D plot visualization.
+
+- Bootstrapping: Trying to incoporate histogram illustrations, to convey how bootstrapping provides confidence intervals for inputs to the dataset.
+
+In summary, I am trying to leverage various visualization types for statistical analysis performed like - line charts, bar charts, scatter plots, histograms, 3D plot and box plots - to communicate model results, insights, and business impacts across these projects in a simplified yet compelling way. The specific visuals help to convey key information to general audiences.
+
+
+5. ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
+
+- Inventory Product sales prediction
+  I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
+
+- Resume shortlisting candidates experience project
+  I am using R workbench to assess a model predicting shortlisting based on resume skills using accuracy metrics.
+  I am trying to leverage R scripting to evaluate a model forecasting using graphics and charts.
+
+- Bootstrapping Confidence Intervals
+  I used and learnt how to estimate confidence intervals for sales forecasts on R studio workbench
+
+In summary, I am  trying to demonstrate fundamental skills in R including data visualization, model evaluation, forecasting, estimation, and statistical testing for mini projects like involving sales prediction inventory, resume shortlisting.
+I focused on fundamental techniques to prepare, assess, and interpret statistical models.
+
+
+### Team collaboration/contribution:
+
+1. I actively participated in team channels, exchanging ideas and insights with team members on mini projects. We reviewed each other's work, celebrated accomplishments, and provided constructive feedback to help improve our individual work results.
+
+2. I collaborated with peers on course projects, pairing up to complete assignments. We divided up tasks, combined our work, and learned from each other's approaches. These collaborations allowed us to produce higher quality deliverables.
+
+3. I shared a job opportunity and relevant article with one of the program peers that matched their skills and interests, helping connect her with openings.
+
+4. I did not just speak up with my own perspectives during team discussions but also made an effort to listen to others' viewpoints. Reflecting on diverse opinions leads to better solutions. 
+
+5. I received feedback from teammates to strengthen my analysis and communication skills. Incorporating their suggestions helped me substantially improve my projects and presentations.
+
+Overall, I leveraged the collaborative environment to exchange knowledge, motivate peers, provide mutually beneficial feedback, and learn from the diversity of backgrounds and thoughts. 
+
+
+
 ## Regression Concepts
 
-[Git Link for my repo](https://github.com/tdurgasaranya/activity01-course-tools)
+[Git Link for repo](https://github.com/tdurgasaranya/activity01-course-tools)
 
 
 In this chapter, I have learned about the fundamental concepts of regression analysis.
@@ -15,7 +109,7 @@ Regression is a statistical method used to create any relationship between a dep
 
 ## Simple Linear Regression
 
-[Simple linear regression work Git Link](https://github.com/tdurgasaranya/activity02-slr)
+[Simple linear regression Git Link work](https://github.com/tdurgasaranya/activity02-slr)
 
 
 In this chapter, I explored the concept of a simple linear regression, which is interdependent relation between a single independent variable and a dependent variable.
@@ -24,7 +118,7 @@ I learned how to fit a linear equation using Rscript with the data using the met
 
 ## Multiple Linear Regression
 
-[Multiple Linear Regression work Git Link](https://github.com/tdurgasaranya/activity03-mlr)
+[Multiple Linear Regression Git work Link](https://github.com/tdurgasaranya/activity03-mlr)
 
 This chapter introduced me to the concepts of multiple linear regression, where we apply the concept of simple linear regression to include multiple independent variables rather than one variable.
 I've learned how to fit a multiple regression model, interpret the coefficients and perform hypothesis tests to validate the significance of the variables.
@@ -106,6 +200,8 @@ Bootstrap modeling, is a resampling technique used to estimate the variability o
   With the bootstrap samples we can compute mean, standard deviation, confidence intervals.
 - Bootstrap Confidence Intervals
 - Model Validation:
+   Bootstrap is used to assess the performance of any prediction model. Through bootstrap-based validation, we can
+   estimate the model's predictive accuracy and assess its ability to generalize to unseen data.
 
 From this chapter, I gained the fundamentals understanding of the principles and applications of bootstrap modeling. This resampling technique is a valuable addition to my statistical toolkit, helping me to validate the performance of complex models in real-world data analysis.
 
@@ -150,9 +246,10 @@ Ways to integrate my learnings from STA631 course in my current/future job:
 
 ### Data Feminism learnings:
 
-- A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used.
-  
-- Validations that data and algorithms are not gender objective - depends on the priorities, biases, and values of those who create them.
+
+- A new feminist approach to data science and AI that challenges existing biases, power imbalances, and inequities in how data is collected, analyzed, and used. 
+
+- Validations on data and algorithms are not objective - they're based on the priorities, biases, and values of those who create them.
 
 - To include diverse perspectives and lived experiences results in better, more ethical and just data science for society.
 
