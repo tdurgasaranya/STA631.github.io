@@ -8,7 +8,8 @@
 
 ### Course Learning Objectives:
 
-1. Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:
+1. ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
+   
 
 - Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing historical sales data for different products.
   
@@ -18,8 +19,8 @@
 - My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
 
 
-2. Determine and apply the appropriate generalized linear model for a specific data context
-
+2. ***Determine and apply the appropriate generalized linear model for a specific data context***
+   
 - Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
   generalized linear model (GLM) for a resume data context.
 
@@ -32,25 +33,7 @@ By interpreting these estimated relationships, I could understand how experience
 This demonstrates my learning skills in applying statistical learning techniques to build models that drive business processes and decisions. The GLM enabled me to predict outcomes based on applicants
 
 
-3. Conduct model selection for a set of candidate models
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. ***Conduct model selection for a set of candidate models***
 
 
 
