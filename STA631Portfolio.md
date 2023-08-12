@@ -8,7 +8,7 @@
 
 ### Course Learning Objectives:
 
-1. ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
+1.  ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
    
 - Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing
   historical sales data for different products.
@@ -23,7 +23,7 @@
 - My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
 
 
-2. ***Determine and apply the appropriate generalized linear model for a specific data context***
+2.  ***Determine and apply the appropriate generalized linear model for a specific data context***
    
 - Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
   generalized linear model (GLM) for a resume data context.
@@ -40,7 +40,7 @@ By interpreting these estimated relationships, I could understand how experience
 This demonstrates my learning skills in applying statistical learning techniques to build models that drive business processes and decisions. The GLM enabled me to predict outcomes based on applicants
 
 
-3. ***Conduct model selection for a set of candidate models***
+3.  ***Conduct model selection for a set of candidate models***
 
 Example: For a sales inventory prediction project, I am developing models to forecast future products inventory. 
 
@@ -63,7 +63,7 @@ By completing a structured model selection process, I will select the approach t
 
 In summary, this project demonstrates my ability to find best practices to determine the optimal modeling technique for a business forecasting need. I am applying these statistical learning methods to achieve an effective inventory prediction model.
 
-4. ***Communicate the results of statistical models to a general audience***
+4.  ***Communicate the results of statistical models to a general audience***
 
 - Inventory Prediction: I tried to fit a line chart to demonstrate how the model accurately forecasted product demand based on historical sales data, predicting inventory planning. 
 
@@ -77,7 +77,7 @@ I tried to create 3D plots while working on a Multiple Linear Regression example
 In summary, I am trying to leverage various visualization types for statistical analysis performed like - line charts, bar charts, scatter plots, histograms, 3D plot and box plots - to communicate model results, insights, and business impacts across these projects in a simplified yet compelling way. The specific visuals help to convey key information to general audiences.
 
 
-5. ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
+5.  ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
 
 - Inventory Product sales prediction
   I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
