@@ -10,12 +10,15 @@
 
 1. ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
    
-
-- Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing historical sales data for different products.
+- Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing
+  historical sales data for different products.
   
-- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
+- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model
+  how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood
+  Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
   
-- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model estimation process.
+- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model
+  estimation process.
 - My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
 
 
@@ -24,9 +27,12 @@
 - Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
   generalized linear model (GLM) for a resume data context.
 
-- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
-- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical variable (years of experience). 
-- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability of being shortlisted. 
+- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from
+  candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
+- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical
+  variable (years of experience). 
+- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability
+  of being shortlisted. 
 
 By interpreting these estimated relationships, I could understand how experience impacts the likelihood of shortlisting. I am also trying to include the model to predict shortlisting probabilities for candidates with different levels of experience. 
 
@@ -36,11 +42,14 @@ This demonstrates my learning skills in applying statistical learning techniques
 3. ***Conduct model selection for a set of candidate models***
 
 Example: For a sales inventory prediction project, I am developing models to forecast future products inventory. 
-- So far, I have collected historical sales data and promotional information to train candidate models. 
 
-I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like Mean Absolute Error. 
+- So far, I have collected historical sales data and promotional information to train candidate models.
+- I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like
+  Mean Absolute Error. 
 
-- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach. By systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory demand.
+- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach.
+  systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory
+  demand.
 
 The additional steps to this project would be to:
 
