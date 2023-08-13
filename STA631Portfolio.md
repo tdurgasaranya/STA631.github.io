@@ -16,7 +16,7 @@
 -  I tried to create a prediction model for future inventory product sales by analyzing
   historical sales data for different products.
   
-- I tried to create a predictive model using linear regression, including multiple linear regression. I tried to estimate coefficients to
+- I tried to create a predictive model using linear regression, including multiple linear regression, to estimate coefficients to
   model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum
   Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic
   sales data.
