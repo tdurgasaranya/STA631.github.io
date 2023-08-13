@@ -8,39 +8,50 @@
 
 ### Course Learning Objectives:
 
-1. ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
+1.  ***Describing probability as a foundation of statistical modeling, including inference and maximum likelihood estimation:***
    
+- Example: For an inventory prediction mini project, I am tyring to incoporate and implement probability theory to interpret historic
+  product sales patterns and guide the prediction model estimation process.
 
-- Example: For an inventory prediction mini project, I tried to create a prediction model for future inventory product sales by analyzing historical sales data for different products.
+-  I tried to create a prediction model for future inventory product sales by analyzing
+  historical sales data for different products.
   
-- I tried to create a predictive model using regression, including multiple linear regression. I tried to estimate coefficients to model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic sales data.
+- I tried to create a predictive model using linear regression, including multiple linear regression, to estimate coefficients to
+  model how variables like products of different categories are sold in maximum number of weeks. I am working on to inlcude Maximum
+  Likelihood Estimation (MLE), and trying to find the coefficient values that maximizes the probability of observing the given historic
+  sales data.
   
-- In this project, I leveraged to leaen and implement probability theory to interpret historic product sales patterns and guide the model estimation process.
 - My analysis demonstrates skills in demand forecasting, statistical inference, and predictive modeling for inventory optimization.
 
 
-2. ***Determine and apply the appropriate generalized linear model for a specific data context***
+2.  ***Determine and apply the appropriate generalized linear model for a specific data context***
    
 - Example: "Resume Shortlisting" candidate experience based on years of experience, race and demographic factors to illustrate the
   generalized linear model (GLM) for a resume data context.
 
-- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
-- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical variable (years of experience). 
-- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability of being shortlisted. 
+- I analyzed applicants data using a generalized linear model (GLM) based on a csv file provided on survey demographic information from
+  candidate experiences. The goal was to predict highest number of resume shortlisting based on candidate experience and other factors
+- I knew a GLM was appropriate as taught in course because the outcome was binary (shortlisted or not) and the predictor was a numerical
+  variable (years of experience). 
+- I used statistical software to fit a GLM on the data, which estimated mathematical relationships between experience and the probability
+  of being shortlisted. 
 
 By interpreting these estimated relationships, I could understand how experience impacts the likelihood of shortlisting. I am also trying to include the model to predict shortlisting probabilities for candidates with different levels of experience. 
 
 This demonstrates my learning skills in applying statistical learning techniques to build models that drive business processes and decisions. The GLM enabled me to predict outcomes based on applicants
 
 
-3. ***Conduct model selection for a set of candidate models***
+3.  ***Conduct model selection for a set of candidate models***
 
 Example: For a sales inventory prediction project, I am developing models to forecast future products inventory. 
-- So far, I have collected historical sales data and promotional information to train candidate models. 
 
-I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like Mean Absolute Error. 
+- So far, I have collected historical sales data and promotional information to train candidate models.
+- I tried to fit a Linear Regression model on the training data and evaluated its performance on a validation set using error metrics like
+  Mean Absolute Error. 
 
-- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach. By systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory demand.
+- Going forward, I plan to train and evaluate additional models, like Random Forest, to compare against the Linear Regression approach.
+  systematically evaluating multiple models, I aim to determine the best statistical learning method for accurately forecasting inventory
+  demand.
 
 The additional steps to this project would be to:
 
@@ -49,11 +60,11 @@ The additional steps to this project would be to:
 - Evaluate and compare performance to the Linear Regression model
 - Use cross-validation to further validate the top model
 
-By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data. This will help the retailer optimize their inventory planning.
+By completing a structured model selection process, I will select the approach that minimizes forecasting errors on new data.
 
 In summary, this project demonstrates my ability to find best practices to determine the optimal modeling technique for a business forecasting need. I am applying these statistical learning methods to achieve an effective inventory prediction model.
 
-4. ***Communicate the results of statistical models to a general audience***
+4.  ***Communicate the results of statistical models to a general audience***
 
 - Inventory Prediction: I tried to fit a line chart to demonstrate how the model accurately forecasted product demand based on historical sales data, predicting inventory planning. 
 
@@ -67,7 +78,7 @@ I tried to create 3D plots while working on a Multiple Linear Regression example
 In summary, I am trying to leverage various visualization types for statistical analysis performed like - line charts, bar charts, scatter plots, histograms, 3D plot and box plots - to communicate model results, insights, and business impacts across these projects in a simplified yet compelling way. The specific visuals help to convey key information to general audiences.
 
 
-5. ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
+5.  ***Efficient use of  programming software (R Studio/workbench) to achieve the results for works done:***
 
 - Inventory Product sales prediction
   I used R to visualize and evaluate forecasts based on historical sales data to predict product demand.
